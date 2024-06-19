@@ -159,6 +159,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Innocent Udo - [Github](https://github.com/innocentsax) / [Twitter](https://twitter.com/innocentsax)  
 Owolabi Pius - [Github](https://github.com/opius2017) / [Twitter](https://twitter.com/piusowolabi)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Sara Fedlu
 ## License
 Public Domain. No copy write protection. 
